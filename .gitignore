@@ -1,0 +1,12 @@
+*$py.class
+*.py[cod]
+*.vs
+*.user
+*.egg-info
+__pycache__/
+applications/build/
+applications/dist/
+obj/
+static/
+venv/
+.idea/
